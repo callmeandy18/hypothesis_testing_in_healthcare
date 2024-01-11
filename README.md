@@ -1,1 +1,1 @@
-# hypothesis_testing_in_healthcare
+# hypothesis_testing_in_healthcare_drug_safety
